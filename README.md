@@ -7,6 +7,6 @@ This project to learn hapi catbox-redis.
    `npm install @hapi/catbox-redis`
 5. Create `server.js` file
 
-To run: `node server.js`
+To run server: `node server.js`
 
 Source: https://hapi.dev/tutorials/caching/?lang=en_US
