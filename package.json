@@ -1,0 +1,15 @@
+{
+  "name": "catbox_redis_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/catbox-redis": "^5.0.5",
+    "@hapi/hapi": "^19.1.1"
+  }
+}
